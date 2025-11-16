@@ -13,3 +13,14 @@
         " • از اسپم خودداری کنید.\n"
         " • اگر در گروه هستید، دستور را مستقیم بنویسید (نیازی به @نام‌ربات نیست)."
     )
+
+نصب کتابخونه 
+pip install telethon 
+
+
+دستورات اجرا 
+
+
+git clone https://github.com/MAKHLOGH/sender
+cd sender
+python sender21.py
