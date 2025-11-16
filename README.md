@@ -18,9 +18,9 @@
 pip install telethon 
 
 
-دستورات اجرا 
+دستورات اجرایی
 
 
-git clone https://github.com/MAKHLOGH/sender
+>git clone https://github.com/MAKHLOGH/sender
 cd sender
-python sender21.py
+python sender21.py<
