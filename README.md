@@ -15,7 +15,7 @@
     )
 
 نصب کتابخونه 
-pip install telethon 
+>pip install telethon 
 
 
 دستورات اجرا 
